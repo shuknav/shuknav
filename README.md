@@ -1,4 +1,35 @@
-## Hi there 👋
+### Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1720803760/94660/blob-wave-reverse-gif.gif" width="25"/>
+
+I'm Abhinav, a CS grad from India who just spends time making useful things that just work (mostly 😅)
+
+I’m currently building [**SplitSavvy**](https://github.com/shuknav/SplitSavvy), a smart shared-living app that helps roommates split bills, track utilities, and manage onboarding seamlessly.  
+Alongside that, I'm also developing [**Savry**](https://github.com/Savry-in) — a kitchen inventory manager that recommends meals, tracks spoilage, and automates restocking.
+
+Outside of dev life, I spend my time experimenting in the kitchen, getting lost in books, messing around with music-making, or gaming to recharge and reset.
+
+---
+
+#### Let’s connect!
+
+[<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" />](https://linkedin.com/in/shuknav)
+
+
+
+<!--
+**shuknav/shuknav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+
 
 <!--
 **shuknav/shuknav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
